@@ -8,7 +8,13 @@ header {
     padding: 1%;
 }
 
+.main{
+    width: 80%;
+    float: right;
+}
+
 .sidebar{
     width: 20%;
     float: left;
 }
+
