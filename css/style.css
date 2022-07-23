@@ -3,9 +3,13 @@
     vertical-align: top;
 }
 .logo{
-    width: 23%;
+    width: 10px;
     padding: 1%;
     text-align: center;
+}
+
+.img{
+    width: 23%;
 }
 
 nav {
@@ -30,6 +34,7 @@ nav {
 footer{
     background-color: #373738;
     padding-left: 100px;
+    color: white;
 }
 .footerNav{
     display: inline-block;
